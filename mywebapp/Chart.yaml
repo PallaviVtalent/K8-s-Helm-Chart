@@ -21,9 +21,9 @@ kubeVersion: ">=1.19.0"
 description: A Helm Chart for my application.
 type: application
 keywords: [mywebapp, helm-chart]
-home: /home/pallavi_vtalent/mywebapp
+home: /home/pallavi_vtalent/K8-s-Helm-Chart
 sources:
-  - https://github.com/example/my-application
+  - https://github.com/PallaviVtalent/K8-s-Helm-Chart
 dependencies:
   - name: nginx
     version: "1.23.1"
